@@ -2,7 +2,7 @@
 
 Charles is an HTTP proxy that enables testers to view all of the HTTP and SSL / HTTPS traffic between their machine and the Internet. This includes requests, responses and the HTTP headers (which contain the cookies and caching information).
 
-Chatles' main tools are:
+Chatles' main tools for testing purposes are:
 - Breakpoints that allows to pause the request before it reaches the server. By means of breakpoints we are able to analyze and modify requests in more detail.
 - Rewrite that enables to create rules that modify requests and responses as they pass through Charles. Rules such as adding or changing a header or search and replace some text in the response body.
 - Bandwidth Throttle / Bandwidth Simulator can be used to adjust the bandwidth and latency of your Internet connection. This enables to simulate modem conditions using your high-speed connection.
